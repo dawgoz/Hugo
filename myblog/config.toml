@@ -1,0 +1,4 @@
+baseURL = 'http://dawgoz.github.io/'
+languageCode = 'en-us'
+title = 'Coder site'
+theme = 'hugo-coder'
